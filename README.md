@@ -1,6 +1,6 @@
 # QA_practice01
 ## waterfall에 V&V모델의 testcase 내용임
-### 이 프로젝트들은 이미 개발이 완료되거나 재작 팀이 해체되어서   
+### 이 프로젝트들은 이미 개발이 완료되거나 개발 팀이 해체되어서   
 ### 오류수정을 제외한 수정이 없기 때문에 애자일 방법이 아닌 V&V모댈을 사용함  
 ### (These projects are either completed, with no ongoing development, or disbanded, rendering them ineligible for Agile methods. 
 ### Therefore, since there are no planned modifications except for error correction, a V&V model is being utilized)  
